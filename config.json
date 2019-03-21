@@ -1,0 +1,12 @@
+{
+	"TimeOut" : 180,
+	"UrlTeam" : "http://localhost:8080/v1/teams",
+	"OutputFile" : "report.txt",
+	"Separator" : ",",
+	"LineEnd" : "\n",
+	"ReporterUser" : "reporter",
+	"ReporterPassword" : "supertajneheslo",
+	"ErrorCreatingRequest" : "Creating request error:%v\n",
+	"ErrorRequest" : "Request error:%v\n",
+	"ErrorFile" : "File writing error:%v\n"
+}
